@@ -24,7 +24,7 @@ The dataset used in this project is the IMDb Movie Reviews dataset, containing 5
  <b>IMDB_Dataset.csv:</b> The main dataset containing 50,000 IMDb movie reviews.<br>
   <b>glove.6B.100d.txt: </b>Pre-trained GloVe word embeddings.<br>
   <b>IMDb_Unseen_Reviews.csv: </b>A sample dataset for making predictions with new, unseen reviews.<br>
-  <b>SentimentAnalysis_with_NeuralNetwork.ipynb: </b>Jupyter notebook containing the project code. <br> <b>lstm_model.h5:</b> Saved LSTM model with an accuracy of 85.6%.<br>
+  <b>IMDB_Review_sentiment_Analysis.ipynb: </b>Jupyter notebook containing the project code. <br> <b>lstm_model.h5:</b> Saved LSTM model with an accuracy of 85.6%.<br>
   <b>IMDb_Unseen_Predictions.csv:</b> Output predictions for new IMDb reviews.<br>
 
 # Data Preprocessing
