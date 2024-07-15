@@ -19,7 +19,7 @@ The dataset used in this project is the IMDb Movie Reviews dataset, containing 5
  ├── IMDb_Unseen_Reviews.csv <br>
  ├── IMDB_Review_sentiment_Analysis.ipynb<br>
  ├── lstm_model.h5<br>
- └── IMDb_Unseen_Reviews.csv (with predicted) <br>
+ └── IMDb_Unseen_Reviews.csv (with predicted output) <br>
  
  <b>IMDB_Dataset.csv:</b> The main dataset containing 50,000 IMDb movie reviews.<br>
   <b>glove.6B.100d.txt: </b>Pre-trained GloVe word embeddings.<br>
