@@ -14,12 +14,12 @@ The dataset used in this project is the IMDb Movie Reviews dataset, containing 5
 # Project Structure
 <br>
 
- ├── a1_IMDB_Dataset.csv <br>
- ├── a2_glove.6B.100d.txt <br>
- ├── a3_IMDb_Unseen_Reviews.csv <br>
- ├── b_SentimentAnalysis_with_NeuralNetwork.ipynb<br>
- ├── c1_lstm_model_acc_0.856.h5
- └── c2_IMDb_Unseen_Predictions.csv <br>
+ ├── IMDB_Dataset.csv <br>
+ ├── glove.6B.100d.txt <br>
+ ├── IMDb_Unseen_Reviews.csv <br>
+ ├── IMDB_Review_sentiment_Analysis.ipynb<br>
+ ├── lstm_model.h5<br>
+ └── IMDb_Unseen_Reviews.csv (with predicted) <br>
  
  <b>IMDB_Dataset.csv:</b> The main dataset containing 50,000 IMDb movie reviews.<br>
   <b>glove.6B.100d.txt: </b>Pre-trained GloVe word embeddings.<br>
